@@ -1,0 +1,15 @@
+/Users/samirhasanli/Projects/methodCalculator/methodCalculator/bin/Debug/net7.0/methodCalculator
+/Users/samirhasanli/Projects/methodCalculator/methodCalculator/bin/Debug/net7.0/methodCalculator.deps.json
+/Users/samirhasanli/Projects/methodCalculator/methodCalculator/bin/Debug/net7.0/methodCalculator.runtimeconfig.json
+/Users/samirhasanli/Projects/methodCalculator/methodCalculator/bin/Debug/net7.0/methodCalculator.dll
+/Users/samirhasanli/Projects/methodCalculator/methodCalculator/bin/Debug/net7.0/methodCalculator.pdb
+/Users/samirhasanli/Projects/methodCalculator/methodCalculator/obj/Debug/net7.0/methodCalculator.csproj.AssemblyReference.cache
+/Users/samirhasanli/Projects/methodCalculator/methodCalculator/obj/Debug/net7.0/methodCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samirhasanli/Projects/methodCalculator/methodCalculator/obj/Debug/net7.0/methodCalculator.AssemblyInfoInputs.cache
+/Users/samirhasanli/Projects/methodCalculator/methodCalculator/obj/Debug/net7.0/methodCalculator.AssemblyInfo.cs
+/Users/samirhasanli/Projects/methodCalculator/methodCalculator/obj/Debug/net7.0/methodCalculator.csproj.CoreCompileInputs.cache
+/Users/samirhasanli/Projects/methodCalculator/methodCalculator/obj/Debug/net7.0/methodCalculator.dll
+/Users/samirhasanli/Projects/methodCalculator/methodCalculator/obj/Debug/net7.0/refint/methodCalculator.dll
+/Users/samirhasanli/Projects/methodCalculator/methodCalculator/obj/Debug/net7.0/methodCalculator.pdb
+/Users/samirhasanli/Projects/methodCalculator/methodCalculator/obj/Debug/net7.0/methodCalculator.genruntimeconfig.cache
+/Users/samirhasanli/Projects/methodCalculator/methodCalculator/obj/Debug/net7.0/ref/methodCalculator.dll
